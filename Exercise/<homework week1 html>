@@ -1,0 +1,60 @@
+<Travel html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+         body { 
+             background-color: rgb(184, 180, 184);   }
+             .headline {color: rgb(150, 9, 32);
+             }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Colombia</h1>
+        <h3>A paradise on earth!!</h3>
+        <p>Colombia is a country in the extreme north of South America. Its landscape has tropical forests, the Andes mountains and several coffee plantations. In <em>Bogotá</em>, its high-rise capital, the Zona Rosa district is famous for its restaurants and shops. Cartagena, on the Caribbean coast, has a walled colonial Old Town, a 16th-century castle and nearby coral reefs.The best place to enjoy with the family, alone, Just married...<strong>the Danger is that you want to live here!!</strong>
+    </p>
+    <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" alt="beach" width="450">
+    <h4>I can not miss visit Colombia Because is a piece of heaven; let me show you.</h4>
+     <h3 class="headline">Mountains</h3> 
+     <img src="https://www.kasandbox.org/programming-images/landscapes/mountain_matterhorn.png" alt="mountains" width="450">
+     <p> Colombia is plenty of big mountains because the Andins crosses in 3 parts the country,we have places very famous to do trekking and even climb in the snow all the year, our montaners counts with anything you may need to make you fell like in home.
+         <strong>Los Nevados National Park</strong> is located in the coffee region of the central Andes of Colombia. It is known for its snowy volcanoes, glaciers, lakes and forests. The active volcano <em>Nevado del Ruiz</em> is in the north. Further south is the Emerald Green Lake, the trout-filled Otun Lake and the Tolima Snowy with its snow-capped summit. The park houses hummingbirds, eagles, parrots and condors. It has high wax palms and frailejones.
+Here you can enjoy the best adventures where you can practice sports such as hiking, climbing or even night riding ... A whole show.
+     </p>
+     <ul>
+     <li>Nevado del Ruiz</li>
+     <li>Nevado del Otun</li>
+     <li>Nevado de Santa Isabel</li>
+     </ul>
+     <h3 class="headline">Deserts</h3>
+     <img src="https://www.kasandbox.org/programming-images/landscapes/sand-dunes.png" alt="desert" width="450">
+     <p>We invite you to immerse yourself in one of the largest deserts of America, <strong>the Tatacoa desert</strong>, on the east side of the country hidden by forests and jungles is this wonderful desert of 400 km with its wonderful warm and arid climate that receives annually to more than 1 million visitors in its luxurious 5-star hotels or comfortable hostels that accommodate all types of budgets. Let's go Wild!!  </p>
+     <ul>
+         <li>Desierto de la Guajira.</li>
+         <li>Desierto de la Tatacoa.</li>
+         <li>Desierto de la Candelaria.</li>
+         
+     </ul>
+     <h3 class="headline">Beaches</h3>
+     <img src="https://www.kasandbox.org/programming-images/landscapes/beach-sunset.png" alt="beachess" width="450">
+     <p>We are very blessed and fortunate to be able to enjoy the benefits of two of the most important and wonderful seas in the world such as the <em>Pacific and the Caribbean</em>. The Pacific is a sea of puja with a spectacular sunset and great waves where we can enjoy water sports.
+On the other hand the Caribbean Sea dazzles us with its 7 colors, and a sensational climate throughout the year, you can enjoy the best hospitality or even take one of the most famous <em>Caribbean cruises</em> that depart every Saturday from our port in Cartagena of Indians, where you will also find an ancient city fortified by a great wall of the time. Cities like Barranquilla where the famous singer <em>Shakira</em> was born or paradise beaches like Santa Marta where <em>Carlos Vives</em> was born or the football player <em>Radamel Falcao</em> until the end of the candle end in La Guajira where the Vallenato traditional music of the region will immerse you in its culture. </p>
+<h4>Top 5 Best Beaches to visit</h4>
+<ol>
+    <li>San Bernardo.</li>
+    <li>Rosario Island</li>
+    <li>Baru Beach</li>
+    <li>San Andres Island</li>
+    <li>Tayrona Park</li>
+
+</ol>
+
+<h3 class="headline">Historical cities</h3>
+<img src="https://www.kasandbox.org/programming-images/landscapes/mountains-sunset.png" alt="historic">
+<p> Ciudad Perdida, also known as <strong>Teyuna or Buritaca-200</strong>, is a former Tajon indigenous village and archeological site belonging to the city of Santa Marta, in Colombia. It was built around the 8th century of our era and is considered one of the main archeological sites in Colombia.It is part of one of the more than 250 ancient villages of the four indigenous groups found on the north and southwest face of the Sierra Nevada from Santa Marta, in the department of Magdalena in northern Colombia.</p>
+<h1>Come, enjoy with us this staning adventure!!</h1>
+    </body>
+</html>
