@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 100% padding: 50px;
+}
+
+.dark_blue {
+    background: darkblue;
+}
+
+.light_blue {
+    background: lightblue;
+}
+
+.red {
+    background: red;
+}
+
+.green {
+    background: green;
+}
+
+.orange {
+    background: orange;
+}
